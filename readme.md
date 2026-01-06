@@ -8,7 +8,7 @@ The implementation demonstrates practical understanding of **VLSM subnetting, dy
 
 ---
 ## Topology Implemented
-![Network Topology](topology.png)
+![Network Topology](ExpectedTopology.png)
 
 ---
 
